@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to PiTorch.org
 
-You can use the [editor on GitHub](https://github.com/pitorch/pitorch.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This site will explain how to deploy the [**PyTorch**](https://pytorch.org/) machine learning platform onto a [**Raspberry Pi**](https://www.raspberrypi.org/) device.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The official PyTorch page, including [tutorials](https://pytorch.org/tutorials/), [docs](https://pytorch.org/docs/stable/index.html) and installation instructions for devices other than Raspberry Pi, can be found at [PyTorch.org](https://pytorch.org/).
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### References
 
-```markdown
-Syntax highlighted code block
+PyTorch is a community-supported project and retains the license, conditions and disclaimer detailed [here](https://github.com/pytorch/pytorch/blob/master/LICENSE).
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pitorch/pitorch.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Raspberry Pi is a trademark of the [Raspberry Pi Foundation](https://www.raspberrypi.org/)
